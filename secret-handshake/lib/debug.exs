@@ -1,0 +1,1 @@
+SecretHandshake.commands(32)
